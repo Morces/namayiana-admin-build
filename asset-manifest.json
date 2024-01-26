@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ac33bf9.css",
+    "main.js": "/static/js/main.d281b392.js",
+    "static/js/787.e62e1fab.chunk.js": "/static/js/787.e62e1fab.chunk.js",
+    "static/media/aedrian.jpg": "/static/media/aedrian.ffc7609a13410f2240fb.jpg",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/logobill.svg": "/static/media/logobill.155f0b24319cdfe799d3c5561fc2ccd2.svg",
+    "static/media/lab.svg": "/static/media/lab.99102efe4871ecf01eaaf1add46f9bc7.svg",
+    "static/media/bed.png": "/static/media/bed.a200980e3c46234dc113.png",
+    "static/media/DMSans-Regular.ttf": "/static/media/DMSans-Regular.4ee96395e07a04577aab.ttf",
+    "static/media/DMSans-Bold.ttf": "/static/media/DMSans-Bold.c423ce2dc1d85bc50799.ttf",
+    "static/media/DMSans-Medium.ttf": "/static/media/DMSans-Medium.150680530af9dd9fd00b.ttf",
+    "service-worker.js": "/service-worker.js",
+    "static/media/User_Img.png": "/static/media/User_Img.2be60dacc1aa2391c614.png",
+    "static/media/namayianalogo.png": "/static/media/namayianalogo.a111eb4c63a84f0682d3.png",
+    "static/media/rafiki2.png": "/static/media/rafiki2.09eac992ba60df7d2f24.png",
+    "static/media/NURI HEALTH.png": "/static/media/NURI HEALTH.8f8d14961b966b2c7240.png",
+    "index.html": "/index.html",
+    "main.8ac33bf9.css.map": "/static/css/main.8ac33bf9.css.map",
+    "main.d281b392.js.map": "/static/js/main.d281b392.js.map",
+    "787.e62e1fab.chunk.js.map": "/static/js/787.e62e1fab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ac33bf9.css",
+    "static/js/main.d281b392.js"
+  ]
+}
